@@ -1,0 +1,5 @@
+#Ignore my personal commands
+commands.txt
+
+#Ignore gedit backup files
+*~
